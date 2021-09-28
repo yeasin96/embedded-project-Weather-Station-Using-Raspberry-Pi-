@@ -1,0 +1,9 @@
+DHT22 sensor consists of two components for measuring; Humidity sensing component and the NTC temperature sensor (or a thermistor). There is an IC on 
+the back side which makes the readings to be able to read by the Raspberry pi.
+
+While measuring the humidity, the humidity sensor comes into play. The humidity sensor consists of two electrodes with moisture holding substrate between
+ them. So when the humidity changes, the conductivity of substrate changes or you can say that the resistance between the electrodes changes. This change 
+in resistance is then given to IC which makes it to read by the Raspberry pi.
+
+While measuring the temperature, the NTC temperature sensor or thermistor comes into play. The resistance of the thermistor changes with change in the 
+temperature. These are negative temperature coefficient (NTC) which means that their resistance decreases with the increase in temperature.

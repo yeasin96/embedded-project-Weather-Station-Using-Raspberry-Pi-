@@ -1,0 +1,6 @@
+The air quality sensor has a small potentiometer that permits the adjustment of the load resistance of the sensor circuit. The 5V power supply is used for air
+quality quality sensor.
+
+The air quality sensor is a signal output indicator instruction. It has two outputs: analog output and TTL output. The TTL output is low signal
+ light which can be accessed through the IO ports on the Microcontroller. The analog output is an concentration, i.e. increasing voltage is directly 
+proportional to increasing concentration. This sensor has a long life and reliable stability as well.
